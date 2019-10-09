@@ -24,6 +24,9 @@ jobs:
       - name: rake test
         run: |
           rake test
+     - name: rubocop
+        run: |
+          rubocop
       - name: gem build
         run: | 
           gem build inspec_tools.gemspec
