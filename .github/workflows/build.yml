@@ -24,6 +24,9 @@ jobs:
       - name: rake test
         run: |
           rake test
+      - name: install rubocop
+        run: |
+          gem install rubocop
       - name: rubocop
         run: |
           rubocop
