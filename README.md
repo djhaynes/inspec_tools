@@ -1,6 +1,6 @@
 # InspecTools
-
-![](https://github.com/djhaynes/inspec_tools/workflows/Inspec%20Tools%20Workflow/badge.svg)
+                                                       
+![](https://github.com/djhaynes/inspec_tools/workflows/InSpec%20Tools%20Workflow/badge.svg)
 
 InspecTools supplies several CLI tools to convert to and from InSpec format.
 
