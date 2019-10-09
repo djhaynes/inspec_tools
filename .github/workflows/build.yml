@@ -15,6 +15,9 @@ jobs:
       - uses: actions/checkout@v1
       - name: Use Ruby ${{ matrix.ruby }} on ${{ matrix.os }}
         uses: actions/setup-ruby@v1
+      - name: install latest bundler
+        run: |
+          gem install bundler
       - name: bundle install
         run: |
           bundle install
