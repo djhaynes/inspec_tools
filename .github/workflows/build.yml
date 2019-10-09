@@ -24,7 +24,7 @@ jobs:
       - name: rake test
         run: |
           rake test
-     - name: rubocop
+      - name: rubocop
         run: |
           rubocop
       - name: gem build
