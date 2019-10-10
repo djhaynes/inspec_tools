@@ -1,4 +1,4 @@
-name: Changelog Generator
+name: Version Information Generator
 on:
   push:
   pull_request:
@@ -13,8 +13,6 @@ jobs:
         ruby: [2.4]
     steps:
       - uses: actions/checkout@v1
-      - name: Use Ruby ${{ matrix.ruby }} on ${{ matrix.os }}
-        uses: actions/setup-ruby@v1
       - name: Get version information and push to repo
         run: |
           git log > VERSION.md
