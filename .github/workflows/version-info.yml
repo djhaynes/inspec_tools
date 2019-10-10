@@ -16,6 +16,7 @@ jobs:
       - name: Get version information and push to repo
         run: |
           git log > VERSION.md
+          git config --global user.email "dhaynes@mitre.org"
           git commit -m "Updating version information" VERSION.md
           git push
         env:
