@@ -20,10 +20,14 @@ jobs:
       - name: install changelog-generator
         run: |
           gem install github_changelog_generator
-      - name: run changelog-generator and commit changes
+      - name: run changelog-generator
         run: |
           github_changelog_generator -u djhaynes -p inspec_tools
+      - name: cat changelog
+        run: |
           cat CHANGELOG.md
+      - name: commit and push changes 
+        run: |
           git commit -m "Updating changelog" CHANGELOG.md
           git push
         env:
