@@ -1,5 +1,9 @@
 name: Changelog Generator
-on: release
+on:
+  push:
+    # branches to consider in the event; optional, defaults to all
+    branches:
+      - master
 jobs:
   test:
     name: Test
