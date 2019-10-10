@@ -1,7 +1,6 @@
 name: Changelog Generator
 on:
-  push:
-  pull_request:
+  release:
 jobs:
   test:
     name: Test
