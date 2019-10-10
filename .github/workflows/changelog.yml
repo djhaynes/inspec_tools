@@ -1,6 +1,5 @@
 name: Changelog Generator
-on:
-  release:
+on: release
 jobs:
   test:
     name: Test
