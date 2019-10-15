@@ -28,6 +28,7 @@ jobs:
           cat CHANGELOG.md
       - name: commit and push changes 
         run: |
+          git config --global user.name "Danny Haynes"
           git config --global user.email "dhaynes@mitre.org"
           git commit -m "Updating changelog" CHANGELOG.md
           git push
