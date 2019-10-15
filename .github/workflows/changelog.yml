@@ -14,7 +14,6 @@ jobs:
         #os: [windows-latest, windows-2019, windows-2016, ubuntu-latest, ubuntu-18.04, ubuntu-16.04, macOS-latest, macOS-10.14]
         ruby: [2.4]
     steps:
-      - uses: actions/checkout@master
       - name: Use Ruby ${{ matrix.ruby }} on ${{ matrix.os }}
         uses: actions/setup-ruby@v1
       - name: install changelog-generator
@@ -30,6 +29,9 @@ jobs:
         run: |
           git config --global user.name "Danny Haynes"
           git config --global user.email "dhaynes@mitre.org"
+          git clone https://github.com/djhaynes/inspec_tools.git
+          mv CHANGELOG.md inspec_tools
+          cd inspec_tools
           git commit -m "Updating changelog" CHANGELOG.md
           git push
         env:
