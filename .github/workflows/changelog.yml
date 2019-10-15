@@ -32,6 +32,8 @@ jobs:
           git clone https://github.com/djhaynes/inspec_tools.git
           mv CHANGELOG.md inspec_tools
           cd inspec_tools
+          git remote set-url upstream https://github.com/mitre/inspec_tools.git
+          git remote set-url origin https://github.com/djhaynes/inspec_tools.git
           git commit -m "Updating changelog" CHANGELOG.md
           git push
         env:
