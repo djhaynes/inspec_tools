@@ -1,6 +1,9 @@
 name: Version Information Generator
 on:
-  release:
+  push:
+    # branches to consider in the event; optional, defaults to all
+    branches:
+      - master
 jobs:
   test:
     name: Test
@@ -22,7 +25,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           push-branch: 'master'
-          commit-message: 'publish changelog'
+          commit-message: 'publish version information'
           force-add: 'true'
         env:
           CI: true
