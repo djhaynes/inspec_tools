@@ -16,6 +16,10 @@ jobs:
     steps:
       - name: Use Ruby ${{ matrix.ruby }} on ${{ matrix.os }}
         uses: actions/setup-ruby@v1
+      - name: get repo
+        uses: actions/checkout@master  
+        with:
+          token: ${{secrets.GITHUB_TOKEN}}   
       - name: install changelog-generator
         run: |
           gem install github_changelog_generator
@@ -24,14 +28,14 @@ jobs:
           github_changelog_generator -u djhaynes -p inspec_tools
       - name: cat changelog
         run: |
-          cat CHANGELOG.md
+          cat CHANGELOG.md 
       - name: commit and push changes 
         run: |
           #git config --global user.name "Danny Haynes"
           #git config --global user.email "dhaynes@mitre.org"
-          git clone https://github.com/djhaynes/inspec_tools.git
-          mv CHANGELOG.md inspec_tools
-          cd inspec_tools
+          #git clone https://github.com/djhaynes/inspec_tools.git
+          #mv CHANGELOG.md inspec_tools
+          #cd inspec_tools
           #git remote add upstream https://github.com/mitre/inspec_tools.git
           #git remote add origin https://github.com/djhaynes/inspec_tools.git
           git commit -m "Updating changelog" CHANGELOG.md
