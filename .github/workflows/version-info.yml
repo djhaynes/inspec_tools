@@ -19,7 +19,7 @@ jobs:
           token: ${{secrets.GITHUB_TOKEN}}   
       - name: get version information
         run: |
-          git show -s ${{ latest_tag }} > VERSION.md
+          git show -s 1.38.0 > VERSION.md
       - name: push
         uses: github-actions-x/commit@v2.1
         with:
