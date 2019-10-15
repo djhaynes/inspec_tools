@@ -1,142 +1,136 @@
 # Change Log
 
-## [v1.5.0](https://github.com/mitre/inspec_tools/tree/v1.5.0) (2019-09-10)
-[Full Changelog](https://github.com/mitre/inspec_tools/compare/v1.4.2...v1.5.0)
+## [1.37.0](https://github.com/djhaynes/inspec_tools/tree/1.37.0) (2019-10-15)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.36.0...1.37.0)
 
-**Closed issues:**
+## [1.36.0](https://github.com/djhaynes/inspec_tools/tree/1.36.0) (2019-10-15)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.35.0...1.36.0)
 
-- Feature Enhancement: Inspec command plugin for inspec\_tools [\#67](https://github.com/mitre/inspec_tools/issues/67)
+## [1.35.0](https://github.com/djhaynes/inspec_tools/tree/1.35.0) (2019-10-15)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.34.0...1.35.0)
 
-**Merged pull requests:**
+## [1.34.0](https://github.com/djhaynes/inspec_tools/tree/1.34.0) (2019-10-15)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.33.0...1.34.0)
 
-- Kevin j smith adding inspec command plugin logic [\#72](https://github.com/mitre/inspec_tools/pull/72) ([lukemalinowski](https://github.com/lukemalinowski))
+## [1.33.0](https://github.com/djhaynes/inspec_tools/tree/1.33.0) (2019-10-15)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.32.0...1.33.0)
 
-## [v1.4.2](https://github.com/mitre/inspec_tools/tree/v1.4.2) (2019-07-30)
-[Full Changelog](https://github.com/mitre/inspec_tools/compare/v1.4.1...v1.4.2)
+## [1.32.0](https://github.com/djhaynes/inspec_tools/tree/1.32.0) (2019-10-15)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.31.0...1.32.0)
 
-**Closed issues:**
+## [1.31.0](https://github.com/djhaynes/inspec_tools/tree/1.31.0) (2019-10-15)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.30.0...1.31.0)
 
-- Add additional option for Summary command [\#64](https://github.com/mitre/inspec_tools/issues/64)
-- `insert\_json\_metadata': undefined method `version' for nil:NilClass [\#63](https://github.com/mitre/inspec_tools/issues/63)
+## [1.30.0](https://github.com/djhaynes/inspec_tools/tree/1.30.0) (2019-10-15)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.29.0...1.30.0)
 
-**Merged pull requests:**
+## [1.29.0](https://github.com/djhaynes/inspec_tools/tree/1.29.0) (2019-10-15)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.28.0...1.29.0)
 
-- Updated rake version [\#69](https://github.com/mitre/inspec_tools/pull/69) ([robthew](https://github.com/robthew))
-- Added logic so that inspec\_tools can be a plugin to Inspec as a comma… [\#68](https://github.com/mitre/inspec_tools/pull/68) ([kevin-j-smith](https://github.com/kevin-j-smith))
-- Add in 'inspec' and 'fileutils' require statements [\#65](https://github.com/mitre/inspec_tools/pull/65) ([samcornwell](https://github.com/samcornwell))
+## [1.28.0](https://github.com/djhaynes/inspec_tools/tree/1.28.0) (2019-10-15)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.27.0...1.28.0)
 
-## [v1.4.1](https://github.com/mitre/inspec_tools/tree/v1.4.1) (2019-06-20)
-[Full Changelog](https://github.com/mitre/inspec_tools/compare/v1.4.0...v1.4.1)
+## [1.27.0](https://github.com/djhaynes/inspec_tools/tree/1.27.0) (2019-10-15)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.26.0...1.27.0)
 
-## [v1.4.0](https://github.com/mitre/inspec_tools/tree/v1.4.0) (2019-05-17)
-[Full Changelog](https://github.com/mitre/inspec_tools/compare/v1.3.6...v1.4.0)
+## [1.26.0](https://github.com/djhaynes/inspec_tools/tree/1.26.0) (2019-10-15)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.25.0...1.26.0)
 
-**Merged pull requests:**
+## [1.25.0](https://github.com/djhaynes/inspec_tools/tree/1.25.0) (2019-10-15)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.24.0...1.25.0)
 
-- Apply fixes from CodeFactor [\#61](https://github.com/mitre/inspec_tools/pull/61) ([aaronlippold](https://github.com/aaronlippold))
+## [1.24.0](https://github.com/djhaynes/inspec_tools/tree/1.24.0) (2019-10-15)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.23.0...1.24.0)
 
-## [v1.3.6](https://github.com/mitre/inspec_tools/tree/v1.3.6) (2019-05-02)
-[Full Changelog](https://github.com/mitre/inspec_tools/compare/v1.3.5...v1.3.6)
+## [1.23.0](https://github.com/djhaynes/inspec_tools/tree/1.23.0) (2019-10-15)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.22.0...1.23.0)
 
-**Implemented enhancements:**
+## [1.22.0](https://github.com/djhaynes/inspec_tools/tree/1.22.0) (2019-10-15)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.21.0...1.22.0)
 
-- document new metadata.json file and creation of file in README.md [\#53](https://github.com/mitre/inspec_tools/issues/53)
-- remove 'severity' from conversion [\#57](https://github.com/mitre/inspec_tools/pull/57) ([aaronlippold](https://github.com/aaronlippold))
+## [1.21.0](https://github.com/djhaynes/inspec_tools/tree/1.21.0) (2019-10-10)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.20.0...1.21.0)
 
-**Closed issues:**
+## [1.20.0](https://github.com/djhaynes/inspec_tools/tree/1.20.0) (2019-10-10)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.19.0...1.20.0)
 
-- While working with STIGViewer there were some missing TAGs [\#50](https://github.com/mitre/inspec_tools/issues/50)
-- remove severity tag in xccdf to inspec converted [\#44](https://github.com/mitre/inspec_tools/issues/44)
+## [1.19.0](https://github.com/djhaynes/inspec_tools/tree/1.19.0) (2019-10-10)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.18.0...1.19.0)
 
-## [v1.3.5](https://github.com/mitre/inspec_tools/tree/v1.3.5) (2019-05-01)
-[Full Changelog](https://github.com/mitre/inspec_tools/compare/v1.3.4...v1.3.5)
+## [1.18.0](https://github.com/djhaynes/inspec_tools/tree/1.18.0) (2019-10-10)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.17.0...1.18.0)
 
-## [v1.3.4](https://github.com/mitre/inspec_tools/tree/v1.3.4) (2019-05-01)
-[Full Changelog](https://github.com/mitre/inspec_tools/compare/v1.1.6...v1.3.4)
+## [1.17.0](https://github.com/djhaynes/inspec_tools/tree/1.17.0) (2019-10-10)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.16.0...1.17.0)
 
-**Closed issues:**
+## [1.16.0](https://github.com/djhaynes/inspec_tools/tree/1.16.0) (2019-10-10)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.15.0...1.16.0)
 
-- Needed app is missing [\#49](https://github.com/mitre/inspec_tools/issues/49)
-- 2018   b79e5c3 [\#48](https://github.com/mitre/inspec_tools/issues/48)
+## [1.15.0](https://github.com/djhaynes/inspec_tools/tree/1.15.0) (2019-10-10)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.14.0...1.15.0)
 
-**Merged pull requests:**
+## [1.14.0](https://github.com/djhaynes/inspec_tools/tree/1.14.0) (2019-10-10)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.13.0...1.14.0)
 
-- Metadata docs and tools [\#55](https://github.com/mitre/inspec_tools/pull/55) ([samcornwell](https://github.com/samcornwell))
-- Fix bugs introduced by \#51 \(STIGViewer PR\) [\#52](https://github.com/mitre/inspec_tools/pull/52) ([samcornwell](https://github.com/samcornwell))
-- Enhancements to meet working with STIGViewer as well as tracking some custom metadata when converting from xccdf2inspec and inspec2ckl [\#51](https://github.com/mitre/inspec_tools/pull/51) ([kevin-j-smith](https://github.com/kevin-j-smith))
-- Add modules summary, compliance [\#45](https://github.com/mitre/inspec_tools/pull/45) ([rx294](https://github.com/rx294))
+## [1.13.0](https://github.com/djhaynes/inspec_tools/tree/1.13.0) (2019-10-10)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.12.0...1.13.0)
 
-## [v1.1.6](https://github.com/mitre/inspec_tools/tree/v1.1.6) (2018-12-13)
-[Full Changelog](https://github.com/mitre/inspec_tools/compare/v1.1.5...v1.1.6)
+## [1.12.0](https://github.com/djhaynes/inspec_tools/tree/1.12.0) (2019-10-10)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.11.0...1.12.0)
 
-## [v1.1.5](https://github.com/mitre/inspec_tools/tree/v1.1.5) (2018-12-11)
-[Full Changelog](https://github.com/mitre/inspec_tools/compare/v1.1.2...v1.1.5)
+## [1.11.0](https://github.com/djhaynes/inspec_tools/tree/1.11.0) (2019-10-10)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.10.0...1.11.0)
 
-**Implemented enhancements:**
+## [1.10.0](https://github.com/djhaynes/inspec_tools/tree/1.10.0) (2019-10-10)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.9.0...1.10.0)
 
-- Add help for the gem usage and or ruby usage [\#7](https://github.com/mitre/inspec_tools/issues/7)
-- add sub-help command output to match README and document each function [\#6](https://github.com/mitre/inspec_tools/issues/6)
+## [1.9.0](https://github.com/djhaynes/inspec_tools/tree/1.9.0) (2019-10-10)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.8.0...1.9.0)
 
-**Fixed bugs:**
+## [1.8.0](https://github.com/djhaynes/inspec_tools/tree/1.8.0) (2019-10-10)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.7.0...1.8.0)
 
-- Add help for the gem usage and or ruby usage [\#7](https://github.com/mitre/inspec_tools/issues/7)
-- add sub-help command output to match README and document each function [\#6](https://github.com/mitre/inspec_tools/issues/6)
+## [1.7.0](https://github.com/djhaynes/inspec_tools/tree/1.7.0) (2019-10-10)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/v1.6.0...1.7.0)
 
-**Closed issues:**
+## [v1.6.0](https://github.com/djhaynes/inspec_tools/tree/v1.6.0) (2019-10-04)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/v1.5.0...v1.6.0)
 
-- add rubocop integration or PRs [\#34](https://github.com/mitre/inspec_tools/issues/34)
-- Do we want to expose the --cci flag in the example as it is now not needed by default given it is in the /data directory [\#29](https://github.com/mitre/inspec_tools/issues/29)
-- fix the subcommands help so it works as expected [\#28](https://github.com/mitre/inspec_tools/issues/28)
-- THOR CLI: xccdf2inspec for example was giving me a hard time about the order of -x or --xccdf or --cci or -c and the order they were in - the docs on it seems to give two sets of directions [\#27](https://github.com/mitre/inspec_tools/issues/27)
-- do we have to do anything special for including CIS Benchmarks? [\#21](https://github.com/mitre/inspec_tools/issues/21)
-- clean up debug statements [\#20](https://github.com/mitre/inspec_tools/issues/20)
-- Give attribution for files in /data [\#19](https://github.com/mitre/inspec_tools/issues/19)
-- add copyright statements if necessary [\#15](https://github.com/mitre/inspec_tools/issues/15)
-- check /examples/sample\_json to see if any of the results are sensitive [\#14](https://github.com/mitre/inspec_tools/issues/14)
+## [v1.5.0](https://github.com/djhaynes/inspec_tools/tree/v1.5.0) (2019-09-10)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/v1.4.2...v1.5.0)
 
-**Merged pull requests:**
+## [v1.4.2](https://github.com/djhaynes/inspec_tools/tree/v1.4.2) (2019-07-30)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/v1.4.1...v1.4.2)
 
-- replaced docsplit with pdf-reader [\#43](https://github.com/mitre/inspec_tools/pull/43) ([robthew](https://github.com/robthew))
-- Updated remove dir statement [\#41](https://github.com/mitre/inspec_tools/pull/41) ([robthew](https://github.com/robthew))
-- Added appveyor config [\#40](https://github.com/mitre/inspec_tools/pull/40) ([robthew](https://github.com/robthew))
-- Travis test [\#39](https://github.com/mitre/inspec_tools/pull/39) ([robthew](https://github.com/robthew))
-- Add rubocop to the process [\#35](https://github.com/mitre/inspec_tools/pull/35) ([aaronlippold](https://github.com/aaronlippold))
-- \* added refernces to external data sources [\#30](https://github.com/mitre/inspec_tools/pull/30) ([aaronlippold](https://github.com/aaronlippold))
+## [v1.4.1](https://github.com/djhaynes/inspec_tools/tree/v1.4.1) (2019-06-20)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/v1.4.0...v1.4.1)
 
-## [v1.1.2](https://github.com/mitre/inspec_tools/tree/v1.1.2) (2018-11-08)
-[Full Changelog](https://github.com/mitre/inspec_tools/compare/v1.1.1...v1.1.2)
+## [v1.4.0](https://github.com/djhaynes/inspec_tools/tree/v1.4.0) (2019-05-17)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/v1.3.6...v1.4.0)
 
-## [v1.1.1](https://github.com/mitre/inspec_tools/tree/v1.1.1) (2018-11-08)
-[Full Changelog](https://github.com/mitre/inspec_tools/compare/v1.1.0...v1.1.1)
+## [v1.3.6](https://github.com/djhaynes/inspec_tools/tree/v1.3.6) (2019-05-02)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/v1.3.5...v1.3.6)
 
-## [v1.1.0](https://github.com/mitre/inspec_tools/tree/v1.1.0) (2018-11-08)
-[Full Changelog](https://github.com/mitre/inspec_tools/compare/v1.0.0...v1.1.0)
+## [v1.3.5](https://github.com/djhaynes/inspec_tools/tree/v1.3.5) (2019-05-01)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/v1.3.4...v1.3.5)
 
-**Fixed bugs:**
+## [v1.3.4](https://github.com/djhaynes/inspec_tools/tree/v1.3.4) (2019-05-01)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/v1.1.6...v1.3.4)
 
-- Remove unneeded `exe` dir if we are going to standardize on `bin`and update the `.gemspec` file [\#25](https://github.com/mitre/inspec_tools/issues/25)
+## [v1.1.6](https://github.com/djhaynes/inspec_tools/tree/v1.1.6) (2018-12-13)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/v1.1.5...v1.1.6)
 
-**Closed issues:**
+## [v1.1.5](https://github.com/djhaynes/inspec_tools/tree/v1.1.5) (2018-12-11)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/v1.1.2...v1.1.5)
 
-- when you When build the gem and install it - the command `inspec\_tools` does not seem to install into the path [\#26](https://github.com/mitre/inspec_tools/issues/26)
-- Add MITRE Copyright to the end of the README.md [\#23](https://github.com/mitre/inspec_tools/issues/23)
-- Update email addresses to MITRE addresses [\#18](https://github.com/mitre/inspec_tools/issues/18)
-- update readme.md [\#17](https://github.com/mitre/inspec_tools/issues/17)
-- update inspec\_tools.gemspec [\#16](https://github.com/mitre/inspec_tools/issues/16)
-- update license to apache 2.0 [\#13](https://github.com/mitre/inspec_tools/issues/13)
-- Separate Files defaults to \[False\] [\#10](https://github.com/mitre/inspec_tools/issues/10)
-- Rename repository to 'inspec\_tools' [\#9](https://github.com/mitre/inspec_tools/issues/9)
+## [v1.1.2](https://github.com/djhaynes/inspec_tools/tree/v1.1.2) (2018-11-08)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/v1.1.1...v1.1.2)
 
-**Merged pull requests:**
+## [v1.1.1](https://github.com/djhaynes/inspec_tools/tree/v1.1.1) (2018-11-08)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/v1.1.0...v1.1.1)
 
-- Cleanup Debug Statetements [\#12](https://github.com/mitre/inspec_tools/pull/12) ([yarick](https://github.com/yarick))
-- Change default separated\_files setting to default to true [\#11](https://github.com/mitre/inspec_tools/pull/11) ([yarick](https://github.com/yarick))
-- Cleanup [\#8](https://github.com/mitre/inspec_tools/pull/8) ([robthew](https://github.com/robthew))
-- Unification [\#5](https://github.com/mitre/inspec_tools/pull/5) ([dromazmj](https://github.com/dromazmj))
-- \* Adds functionality for inspec2csv [\#4](https://github.com/mitre/inspec_tools/pull/4) ([dromazmj](https://github.com/dromazmj))
-- Md/pdf [\#3](https://github.com/mitre/inspec_tools/pull/3) ([dromazmj](https://github.com/dromazmj))
-- Md/csv2inspec [\#2](https://github.com/mitre/inspec_tools/pull/2) ([dromazmj](https://github.com/dromazmj))
-- Writes code in the inspec util to output an inspec json to a directory [\#1](https://github.com/mitre/inspec_tools/pull/1) ([dromazmj](https://github.com/dromazmj))
+## [v1.1.0](https://github.com/djhaynes/inspec_tools/tree/v1.1.0) (2018-11-08)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/v1.0.0...v1.1.0)
 
 
 
