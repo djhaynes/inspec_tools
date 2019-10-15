@@ -17,7 +17,7 @@ jobs:
       - name: Use Ruby ${{ matrix.ruby }} on ${{ matrix.os }}
         uses: actions/setup-ruby@v1
       - name: get repo
-        uses: actions/checkout@master  
+        uses: actions/checkout@v1  
         with:
           token: ${{secrets.GITHUB_TOKEN}}   
       - name: install changelog-generator
