@@ -27,7 +27,8 @@ jobs:
           cat CHANGELOG.md
       - name: commit and push changes 
         run: |
-          git config --global user.name "djhaynes"
+          git config --global user.name "Danny Haynes"
+          hub config --global user.name "djhaynes"
           git config --global user.email "dhaynes@mitre.org"
           git clone https://github.com/djhaynes/inspec_tools.git
           mv CHANGELOG.md inspec_tools
