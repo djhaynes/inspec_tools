@@ -20,7 +20,7 @@ jobs:
       - name: get version information
         run: |
           export COMMIT = 'git rev-list --tags --max-count=1'
-          export TAG = 'git describe --tags $COMMIT
+          export TAG = 'git describe --tags $COMMIT'
           git show -s ${{ TAG }} > VERSION.md
       - name: push
         uses: github-actions-x/commit@v2.1
