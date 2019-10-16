@@ -19,7 +19,7 @@ jobs:
           token: ${{secrets.GITHUB_TOKEN}}   
       - name: get version information
         run: |
-          git describe --tags $(git rev-list --tags --max-count=1)
+          git show -s $(git describe --tags $(git rev-list --tags --max-count=1))
       - name: push
         uses: github-actions-x/commit@v2.1
         with:
