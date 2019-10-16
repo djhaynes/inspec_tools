@@ -19,9 +19,10 @@ jobs:
           token: ${{secrets.GITHUB_TOKEN}}   
       - name: get version information
         env:
-          TAG: git describe --tags `git rev-list --tags --max-count=1`
+          #TAG: git describe --tags `git rev-list --tags --max-count=1`
         run: |
-          git show -s ${{TAG}} > VERSION.md
+          git describe --tags $(git rev-list --tags --max-count=1)
+          #git show -s ${{TAG}} > VERSION.md
       - name: push
         uses: github-actions-x/commit@v2.1
         with:
