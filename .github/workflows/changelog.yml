@@ -25,6 +25,7 @@ jobs:
           gem install github_changelog_generator
       - name: run github_changelog_generator
         run: |
+          export CHANGELOG_GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }}
           github_changelog_generator -u djhaynes -p inspec_tools
       - name: push
         uses: github-actions-x/commit@v2.1
