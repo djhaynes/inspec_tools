@@ -1,6 +1,6 @@
-1.57.0
-commit bc736b3df2b95a3298896978506d55f33a6c0a09
-Author: Danny Haynes <dhaynes@mitre.org>
-Date:   Wed Oct 16 09:30:51 2019 -0400
-
-    Update VERSION.md
+Release: 
+1.58.0
+<br>Date: 
+2019-10-16 09:42:05 -0400
+<br> Commit: 
+21886479ef2a2020dc0915115a00d8184346f5e9
