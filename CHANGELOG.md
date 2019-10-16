@@ -1,5 +1,56 @@
 # Change Log
 
+## [1.66.0](https://github.com/djhaynes/inspec_tools/tree/1.66.0) (2019-10-16)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.65.0...1.66.0)
+
+## [1.65.0](https://github.com/djhaynes/inspec_tools/tree/1.65.0) (2019-10-16)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.64.0...1.65.0)
+
+## [1.64.0](https://github.com/djhaynes/inspec_tools/tree/1.64.0) (2019-10-16)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.63.0...1.64.0)
+
+## [1.63.0](https://github.com/djhaynes/inspec_tools/tree/1.63.0) (2019-10-16)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.62.0...1.63.0)
+
+## [1.62.0](https://github.com/djhaynes/inspec_tools/tree/1.62.0) (2019-10-16)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.61.0...1.62.0)
+
+## [1.61.0](https://github.com/djhaynes/inspec_tools/tree/1.61.0) (2019-10-16)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.60.0...1.61.0)
+
+## [1.60.0](https://github.com/djhaynes/inspec_tools/tree/1.60.0) (2019-10-16)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.59.0...1.60.0)
+
+## [1.59.0](https://github.com/djhaynes/inspec_tools/tree/1.59.0) (2019-10-16)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.58.0...1.59.0)
+
+## [1.58.0](https://github.com/djhaynes/inspec_tools/tree/1.58.0) (2019-10-16)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.57.0...1.58.0)
+
+## [1.57.0](https://github.com/djhaynes/inspec_tools/tree/1.57.0) (2019-10-16)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.56.0...1.57.0)
+
+## [1.56.0](https://github.com/djhaynes/inspec_tools/tree/1.56.0) (2019-10-16)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.55.0...1.56.0)
+
+## [1.55.0](https://github.com/djhaynes/inspec_tools/tree/1.55.0) (2019-10-16)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.54.0...1.55.0)
+
+## [1.54.0](https://github.com/djhaynes/inspec_tools/tree/1.54.0) (2019-10-16)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.53.0...1.54.0)
+
+## [1.53.0](https://github.com/djhaynes/inspec_tools/tree/1.53.0) (2019-10-16)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.52.0...1.53.0)
+
+## [1.52.0](https://github.com/djhaynes/inspec_tools/tree/1.52.0) (2019-10-16)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.51.0...1.52.0)
+
+## [1.51.0](https://github.com/djhaynes/inspec_tools/tree/1.51.0) (2019-10-16)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.50.0...1.51.0)
+
+## [1.50.0](https://github.com/djhaynes/inspec_tools/tree/1.50.0) (2019-10-16)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.49.0...1.50.0)
+
 ## [1.49.0](https://github.com/djhaynes/inspec_tools/tree/1.49.0) (2019-10-16)
 [Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.48.0...1.49.0)
 
