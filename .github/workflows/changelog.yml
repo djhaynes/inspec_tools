@@ -23,7 +23,7 @@ jobs:
       - name: install changelog-generator
         run: |
           gem install github_changelog_generator
-      - name: run changelog-generator
+      - name: run github_changelog_generator
         run: |
           github_changelog_generator -u djhaynes -p inspec_tools
       - name: push
