@@ -19,8 +19,8 @@ jobs:
           token: ${{secrets.GITHUB_TOKEN}}   
       - name: get version information
         env: 
-          COMMIT: ${{ git rev-list --tags --max-count=1 }}
-          TAG: ${{ git describe --tags ${{ COMMIT }} }}
+          COMMIT: git rev-list --tags --max-count=1 
+          TAG: git describe --tags ${{ COMMIT }} 
         run: |
           git show -s ${{ TAG }} > VERSION.md
       - name: push
