@@ -1,4 +1,4 @@
-name: Version Information Generator
+name: Version Generator
 on:
   push:
     # branches to consider in the event; optional, defaults to all
