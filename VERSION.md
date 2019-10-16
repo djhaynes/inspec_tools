@@ -1,6 +1,6 @@
-commit 8cdb8774d9e243a11f6b19270709fed7bc3993e0
+1.56.0
+commit 3d65839f5b6a769dfd2c11decd787e3441ab3deb
 Author: Danny Haynes <dhaynes@mitre.org>
-Date:   Tue Oct 15 14:53:11 2019 -0400
+Date:   Wed Oct 16 09:29:11 2019 -0400
 
-    Update changelog.yml
-c9253f67bc765f01f1a0228a15320beaea884a0c
+    Update version-info.yml
