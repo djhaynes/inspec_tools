@@ -1,6 +1,6 @@
-1.56.0<br>
-commit 3d65839f5b6a769dfd2c11decd787e3441ab3deb<br>
-Author: Danny Haynes <dhaynes@mitre.org><br>
-Date:   Wed Oct 16 09:29:11 2019 -0400<br>
+1.57.0
+commit bc736b3df2b95a3298896978506d55f33a6c0a09
+Author: Danny Haynes <dhaynes@mitre.org>
+Date:   Wed Oct 16 09:30:51 2019 -0400
 
-    Update version-info.yml
+    Update VERSION.md
