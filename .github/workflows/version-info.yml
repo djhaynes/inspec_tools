@@ -18,8 +18,11 @@ jobs:
         with:
           token: ${{secrets.GITHUB_TOKEN}}   
       - name: get version information
+        env: 
+          COMMIT: ${{ git rev-list --tags --max-count=1 }}
+          TAG: ${{ git describe --tags ${{ COMMIT }} }}
         run: |
-          git show -s 1.38.0 > VERSION.md
+          git show -s ${{ TAG }} > VERSION.md
       - name: push
         uses: github-actions-x/commit@v2.1
         with:
