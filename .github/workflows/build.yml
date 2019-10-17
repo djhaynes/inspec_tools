@@ -1,4 +1,4 @@
-name: inspec_tools
+name: Build and test inspec_tools
 on:
   push:
   pull_request:
