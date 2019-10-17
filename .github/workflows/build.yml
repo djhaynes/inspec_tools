@@ -36,6 +36,7 @@ jobs:
       - name: run
         run: |
           inspec_tools
+          yes
         env:
           CI: true
         
