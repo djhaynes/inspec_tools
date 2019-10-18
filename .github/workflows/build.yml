@@ -35,6 +35,10 @@ jobs:
 #      - name: Run inspec_tools
 #        run: |
 #          inspec_tools
+      - uses: anothrNick/github-tag-action@master
+      - uses: toolmantim/release-drafter@v5.2.0
+
         env:
           CI: true
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
