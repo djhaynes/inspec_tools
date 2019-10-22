@@ -1,5 +1,8 @@
 # Change Log
 
+## [v1.89.2](https://github.com/djhaynes/inspec_tools/tree/v1.89.2) (2019-10-22)
+[Full Changelog](https://github.com/djhaynes/inspec_tools/compare/v1.89.1...v1.89.2)
+
 ## [v1.89.1](https://github.com/djhaynes/inspec_tools/tree/v1.89.1) (2019-10-22)
 [Full Changelog](https://github.com/djhaynes/inspec_tools/compare/1.89.0...v1.89.1)
 
