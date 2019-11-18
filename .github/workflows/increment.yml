@@ -9,7 +9,7 @@ jobs:
     steps:
     - name: Checkout inspec_tools 
       uses: actions/checkout@master
-    - name: Increment version and push tag and generate v
+    - name: Increment version and push tag and generate ve
       uses: djhaynes/github-tag-action@master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
