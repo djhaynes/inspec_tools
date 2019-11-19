@@ -2,7 +2,7 @@ name: Test Action
 on: 
   push:  
     branches: 
-      - master
+      - master 
 jobs:
   build:
     runs-on: ubuntu-latest 
