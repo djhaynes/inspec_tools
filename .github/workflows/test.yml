@@ -1,4 +1,4 @@
-name: Generate VERSION.md
+name: Test
 on:
   push:
 jobs:
