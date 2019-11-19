@@ -1,0 +1,12 @@
+name: Generate VERSION.md
+on:
+  push:
+jobs:
+  test:
+    name: Test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test
+        uses: djhaynes/github-version-action
+        with:
+          token: ${{secrets.GITHUB_TOKEN}}   
