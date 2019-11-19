@@ -1,6 +1,6 @@
 name: Test Action       
 on: 
-  push: 
+  push:  
     branches: 
       - master
 jobs:
